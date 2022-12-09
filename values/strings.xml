@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ClassWork</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">ClassWork</string>
+    
+
+    <string name="notesdesc">Explore the notes "\n"prepared by our talented teachers</string>
+    <string name="videodesc">Attend the  Video Lectures  </string>
+    <string name="presentationdesc">Explore  Slides, Powerpoint Presentations.</string>
+    <string name="examdesc">Take Mock Tests Prepared by Specialists.</string>
+
+
+    <string name="AppId"><!-- APP ID--></string>
+
+    <string name="Cwbannerid"><!-- AD ID--></string>
+
+
+    <string name="intstrteradid"><!-- AD ID--></string>
+
+
+    
+
+
+</resources>

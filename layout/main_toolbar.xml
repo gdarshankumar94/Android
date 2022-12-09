@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="4dp"
+    android:fadingEdgeLength="4dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/anton"
+        android:gravity="center_horizontal"
+        android:text="ClassWork"
+        android:textAlignment="center"
+        android:textColor="#B30404"
+        android:textSize="25sp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

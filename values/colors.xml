@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D0247</color>
+    <color name="colorPrimaryDark">#2D0247</color>
+    <color name="colorAccent">#950552</color>
+<color name="CWAccent">#AC0404</color>
+    <color name="media_buttons">#FFBB33</color>
+
+    <color name="first_bg">#FF8F00</color>
+    <color name="second_bg">#2E7D32</color>
+    <color name="third_bg">#C2185B</color>
+    <color name="fourth_bg">#1976D2</color>
+    <color name="fifth_bg">#070707</color>
+    <color name="sixth_bg">#00796B</color>
+    <color name="first_bg1">#F6BF65</color>
+    <color name="second_bg1">#6AC31C</color>
+    <color name="third_bg1">#DA6A96</color>
+    <color name="fourth_bg1">#63A6E8</color>
+    <color name="fifth_bg1">#6E6E6E</color>
+    <color name="sixth_bg1">#04B8A3</color>
+</resources>
